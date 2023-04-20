@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Cataluña",
-        "municipality": "Sant Celoni"
+        "municipality": "Sant Celoni",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -189,6 +190,11 @@
             "name": "IT Project Manager",
             "startDate": "2021-02-01",
             "finishDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "Bitbucket",
@@ -283,7 +289,12 @@
           {
             "name": "IT Governance Officer",
             "startDate": "2018-11-01",
-            "finishDate": "2019-04-30"
+            "finishDate": "2019-04-30",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -296,7 +307,12 @@
           {
             "name": "Engineering Director at Schibsted Spain - Habitaclia",
             "startDate": "2017-01-01",
-            "finishDate": "2018-11-30"
+            "finishDate": "2018-11-30",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -573,6 +589,7 @@
       {
         "details": {
           "name": "habitaclia.com - Alerts",
+          "description": "",
           "URL": "http://www.habitaclia.com/hab_usuarios/infoalertas.htm"
         },
         "type": "sideProject",
@@ -586,6 +603,7 @@
       {
         "details": {
           "name": "habitaclia.com, Catalunya real estate portal",
+          "description": "",
           "URL": "http://www.habitaclia.com"
         },
         "type": "sideProject",
@@ -599,6 +617,7 @@
       {
         "details": {
           "name": "Booking On-Line of Rhodasol-Turimar and Serhs Tourism",
+          "description": "",
           "URL": "http://booking.rhodasol.es/login.aspx?GOLOGIN=1"
         },
         "type": "sideProject",
@@ -612,7 +631,8 @@
       },
       {
         "details": {
-          "name": "CRM .NET"
+          "name": "CRM .NET",
+          "description": ""
         },
         "type": "sideProject",
         "roles": [
@@ -628,16 +648,20 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan"
+        "name": "Catalan",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "English"
+        "name": "English",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "French"
+        "name": "French",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -776,6 +800,7 @@
         "startDate": "2023-03-01",
         "institution": {
           "name": "Scrum Manager",
+          "description": "",
           "URL": "https://scrummanager.com/website/c/profile/member.php?id=1439",
           "image": {
             "alt": "ScrumManager.png",
@@ -790,6 +815,7 @@
         "startDate": "2023-03-01",
         "institution": {
           "name": "Scrum Manager",
+          "description": "",
           "URL": "https://scrummanager.com/website/c/profile/member.php?id=1439",
           "image": {
             "alt": "ProductOwner.png",
@@ -804,6 +830,7 @@
         "startDate": "2022-09-01",
         "institution": {
           "name": "PUE",
+          "description": "",
           "URL": "https://www.credly.com/earner/earned/share/892eff15-4dd5-4eea-acc9-60727a013c29",
           "image": {
             "alt": "PMI.png",
@@ -818,6 +845,7 @@
         "startDate": "2021-11-01",
         "institution": {
           "name": "Comerzzia Academy",
+          "description": "",
           "URL": "https://drive.google.com/file/d/146qzYVzfBE97QZY9qUgnEK833cgorBPF/view?usp=sharing",
           "image": {
             "alt": "comerzzia_logo.png",
@@ -832,6 +860,7 @@
         "startDate": "2021-11-01",
         "institution": {
           "name": "Comerzzia Academy",
+          "description": "",
           "URL": "https://drive.google.com/file/d/146qzYVzfBE97QZY9qUgnEK833cgorBPF/view?usp=sharing",
           "image": {
             "alt": "comerzzia_logo.png",
@@ -846,6 +875,7 @@
         "startDate": "2020-03-01",
         "institution": {
           "name": "Ironhack",
+          "description": "",
           "URL": "https://www.credential.net/7690d54f-0306-4120-a7da-e74354f4a311#gs.x63ozg",
           "image": {
             "alt": "LogoIronhack.jpg",
@@ -931,6 +961,7 @@
         "startDate": "2004-03-01",
         "institution": {
           "name": "Microsoft",
+          "description": "",
           "URL": "http://www.microsoft.com/learning/en-us/certification-overview.aspx",
           "image": {
             "alt": "MCAD.png",
@@ -963,6 +994,7 @@
         "startDate": "1990-09-01",
         "institution": {
           "name": "Universitat Oberta de Catalunya",
+          "description": "",
           "URL": "https://www.uoc.edu/portal/es/index.html",
           "image": {
             "alt": "logo-uoc-default.png_1618809817.png",
@@ -1022,7 +1054,8 @@
         "startDate": "2020-10-01",
         "finishDate": "2020-10-01",
         "institution": {
-          "name": "Ironhack"
+          "name": "Ironhack",
+          "description": ""
         }
       },
       {
@@ -1033,6 +1066,7 @@
         "finishDate": "2020-09-01",
         "institution": {
           "name": "Ironhack",
+          "description": "",
           "URL": "https://www.credential.net/7690d54f-0306-4120-a7da-e74354f4a311#gs.x63ozg"
         },
         "linkedCompetences": [
@@ -1093,7 +1127,8 @@
         "startDate": "2004-04-01",
         "finishDate": "2004-04-01",
         "institution": {
-          "name": "Microsoft"
+          "name": "Microsoft",
+          "description": ""
         }
       },
       {
@@ -1103,7 +1138,8 @@
         "startDate": "2004-04-01",
         "finishDate": "2004-04-01",
         "institution": {
-          "name": "Microsoft"
+          "name": "Microsoft",
+          "description": ""
         }
       },
       {
@@ -1113,7 +1149,8 @@
         "startDate": "2004-03-01",
         "finishDate": "2004-03-01",
         "institution": {
-          "name": "Microsoft"
+          "name": "Microsoft",
+          "description": ""
         }
       },
       {
@@ -1123,7 +1160,8 @@
         "startDate": "2004-03-01",
         "finishDate": "2004-03-01",
         "institution": {
-          "name": "Microsoft"
+          "name": "Microsoft",
+          "description": ""
         }
       },
       {
@@ -1133,7 +1171,8 @@
         "startDate": "2004-03-01",
         "finishDate": "2004-03-01",
         "institution": {
-          "name": "Microsoft"
+          "name": "Microsoft",
+          "description": ""
         }
       }
     ]
@@ -1185,6 +1224,7 @@
         "Frontend Developer",
         "IT Manager"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
