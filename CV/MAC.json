@@ -9,7 +9,7 @@
       "name": "Marc",
       "surnames": "De Mena Tomé",
       "title": "IT Manager, Scrum Master, Product Owner and Senior Full Stack Developer",
-      "description": "I have a long experience, of more than 20 years, in the world of technology.\nRestless and crazy about anything new in technology, entrepreneurship and continuous improvement; Even today I feel the need to learn more and more.\nI use agile methodologies like Lean, Scrum and Kanban to manage projects and teams.\nI am open to develop any type of applications using my knowledge and experience, I think it's very awesome and creative to develop solutions to help people in their daily journey.\n\nI just finish a Full Stack Web Development bootcamp in Ironhack using:\n- Javascript\n- ES6\n- MongoDB\n- Express\n- ReactJS\n- NodeJS\n- HTML5\n- CSS3",
+      "description": "I have a long experience, of more than 30 years, in the world of technology.\nRestless and crazy about anything new in technology, entrepreneurship and continuous improvement; Even today I feel the need to learn more and more.\nI use agile methodologies like Lean, Scrum and Kanban to manage projects and teams.\nI am open to develop any type of applications using my knowledge and experience, I think it's very awesome and creative to develop solutions to help people in their daily journey.\n\nI learned MERN stack in the Full Stack Web Development bootcamp in Ironhack using:\n- Javascript\n- ES6\n- MongoDB\n- Express\n- ReactJS\n- NodeJS\n- HTML5\n- CSS3\n\nRecently certified as:\n- PMI Ready\n- Scrum Master\n- Product Owner",
       "avatar": {
         "alt": "FotoPerfilMarc.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/d377b5ce-dcb3-4e9e-83dd-1c5a0a3200e6_fotoperfilmarc.png"
@@ -648,19 +648,19 @@
     "languages": [
       {
         "name": "Catalan",
-        "level": "Limited working proficiency"
+        "level": "Native or bilingual proficiency"
       },
       {
         "name": "English",
-        "level": "Limited working proficiency"
+        "level": "Professional working proficiency"
       },
       {
         "name": "French",
-        "level": "Limited working proficiency"
+        "level": "Professional working proficiency"
       },
       {
         "name": "Spanish",
-        "level": "Limited working proficiency"
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
