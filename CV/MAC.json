@@ -804,7 +804,11 @@
         "startDate": "2022-09-01",
         "institution": {
           "name": "PUE",
-          "URL": "https://www.credly.com/earner/earned/share/892eff15-4dd5-4eea-acc9-60727a013c29"
+          "URL": "https://www.credly.com/earner/earned/share/892eff15-4dd5-4eea-acc9-60727a013c29",
+          "image": {
+            "alt": "PMI.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/5301b61f-6333-4707-a6d9-1db17fafa1c2_pmi.png"
+          }
         }
       },
       {
