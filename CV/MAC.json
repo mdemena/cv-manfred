@@ -772,6 +772,20 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Scrum Master",
+        "startDate": "2023-03-01",
+        "institution": {
+          "name": "Scrum Manager",
+          "URL": "https://scrummanager.com/website/c/profile/member.php?id=1439",
+          "image": {
+            "alt": "ScrumManager.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/1da78f6c-25f6-476f-99b8-c046c86e4ac1_scrummanager.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "PMI Ready",
         "startDate": "2022-09-01",
         "institution": {
