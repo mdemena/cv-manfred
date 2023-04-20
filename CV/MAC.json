@@ -973,6 +973,21 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Agile project management with Scrum",
+        "startDate": "2022-07-01",
+        "finishDate": "2022-10-01",
+        "institution": {
+          "name": "UCF - Unió Consorci Formació",
+          "description": "• Saber los conceptos clave en Scrum como la inspección, adaptación y\ntransparencia.\n• Conocer los eventos o reuniones en Scrum.\n• Saber identificar las responsabilidades de los distintos roles de\nScrum.\n• Comprender el rol de Scrum Master en Scrum y cuáles son sus\nresponsabilidades.\n• Comprender el rol de Product Owner en Scrum y cuáles son sus\nresponsabilidades.\n• Conocer las buenas prácticas en procesos de implantación de Scrum.\n• Saber identificar errores típicos en procesos de implantación de\nScrum.",
+          "image": {
+            "alt": "logo_ucf_petit.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/8829e867-4033-43ff-b459-9ee45901f23a_logo_ucf_petit.png"
+          }
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Introduction to project management – PMI Project Management Ready Certification",
         "startDate": "2022-05-01",
         "finishDate": "2022-06-01",
