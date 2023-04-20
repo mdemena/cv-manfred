@@ -973,6 +973,21 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Scrum Framework: Scrum Master & Product Owner Certified",
+        "startDate": "2023-01-01",
+        "finishDate": "2023-03-01",
+        "institution": {
+          "name": "PUE",
+          "description": "Módulo 1: Medotodología agile e introducción al scrum\n1. Agile: la cultura ágil \n2. The Scrum Framework\n3. Roles en Scrum\n4. Acontecimientoss en Scrum\nMódulo 2: Gestión de proyectos con Scrum\n5. Artefactos en Scrum\n6. Estimación ágil\n7. El rol de Scrum Máster\n8. El rol de Product Owner\n9. Definición de la visión del producto\n10. Gestión del Product Backlog\n11. Planificación de entregas",
+          "image": {
+            "alt": "logo-PUE.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/c1a6ed7c-61c8-457b-8834-3288be1bf524_logo-pue.png"
+          }
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Agile project management with Scrum",
         "startDate": "2022-07-01",
         "finishDate": "2022-10-01",
