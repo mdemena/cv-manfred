@@ -967,6 +967,21 @@
         }
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Introduction to project management – PMI Project Management Ready Certification",
+        "startDate": "2022-05-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "PUE",
+          "description": "Módulo 1: Fundamentos de la gestión de proyectos y conceptos básicos\nMódulo 2: Marcos de análisis empresarial\nMódulo 3: Metodologías tradicionales basadas en la planificación\nMódulo 4: Metodologías ágiles\n\nTodos los módulos tienen un esquema del curso desglosado por semanas para facilitar la planificación de las clases. Cada semana los alumnos participan en una serie de actividades de aprendizaje para introducir conceptos y reforzar su aprendizaje. Algunos ejemplos son:\n\nPresentaciones\nEstudios de caso\nProyectos\nJuegos de aprendizaje\nVídeos\nConsultas en la web\nComprobación de conocimientos\n\nEl diseño de la instrucción de este curso ha sido creado para una integración flexible en el aula. Gracias a la versatilidad del contenido de e-Learning, los instructores tienen la libertad de apoyar a los alumnos en entornos presenciales, virtuales e híbridos. Aunque algunas de las tareas pueden ser completadas de forma independiente, el apoyo adicional de un instructor es útil y alentado.",
+          "image": {
+            "alt": "logo-PUE.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/0d95286c-ed64-4f74-8a3f-23d6369393eb_logo-pue.png"
+          }
+        }
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Web Development Part Time Course Barcelona March 2020",
