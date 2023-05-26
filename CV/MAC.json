@@ -11,34 +11,16 @@
       "title": "IT Manager, Scrum Master, Product Owner and Senior Full Stack Developer",
       "description": "I have a long experience, of more than 30 years, in the world of technology.\nRestless and crazy about anything new in technology, entrepreneurship and continuous improvement; Even today I feel the need to learn more and more.\nI use agile methodologies like Lean, Scrum and Kanban to manage projects and teams.\nI am open to develop any type of applications using my knowledge and experience, I think it's very awesome and creative to develop solutions to help people in their daily journey.\n\nI learned MERN stack in the Full Stack Web Development bootcamp in Ironhack using:\n- Javascript\n- ES6\n- MongoDB\n- Express\n- ReactJS\n- NodeJS\n- HTML5\n- CSS3\n\nRecently certified as:\n- PMI Ready\n- Scrum Master\n- Product Owner",
       "avatar": {
-        "alt": "FotoPerfilMarc.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/d377b5ce-dcb3-4e9e-83dd-1c5a0a3200e6_fotoperfilmarc.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/26/176cf127-9092-4166-9908-f6b30dc0692c_fotoperfil_20230419.jpg",
+        "alt": "FotoPerfil_20230419.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJyW94EAMzuxIRcLTvwkZHEjw)",
         "country": "España",
         "region": "Cataluña",
-        "municipality": "Sant Celoni",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Sant Celoni"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/mdemena"
-      },
-      {
-        "type": "other",
-        "URL": "https://stackoverflow.com/users/1027256/mdemena"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/mdemena"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/mdemena/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Sports I play",
@@ -52,8 +34,68 @@
         "organization": {
           "name": "Carethy",
           "image": {
-            "alt": "Logo_Carethy.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/11/65838275-6dd8-4f93-9d33-26ea40ae61ea_logo_carethy.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/c7662c01-331a-42ba-b0ed-de9057156a1e_captura-de-pantalla-.png",
+            "alt": "Captura de pantalla de 2022-04-12 19-00-35.png"
+          },
+          "URL": "https://www.carethy.es"
+        },
+        "roles": [
+          {
+            "name": "IT Project Manager",
+            "startDate": "2022-01-01",
+            "finishDate": "2022-05-01",
+            "challenges": [
+              {
+                "description": "Management of software development projects in the IT area using agile methodologies such as Scrum and Kanban.\nDirect contact with stakeholders to know their needs and to be able to present them with the best solution aligned with the objectives of their area and the company.\nConstantly working on project, resource and capacity plans."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "MariaDB",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Ubuntu",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Carethy",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/11/65838275-6dd8-4f93-9d33-26ea40ae61ea_logo_carethy.png",
+            "alt": "Logo_Carethy.png"
           },
           "URL": "https://www.carethy.es"
         },
@@ -118,70 +160,10 @@
       },
       {
         "organization": {
-          "name": "Carethy",
-          "image": {
-            "alt": "Captura de pantalla de 2022-04-12 19-00-35.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/c7662c01-331a-42ba-b0ed-de9057156a1e_captura-de-pantalla-.png"
-          },
-          "URL": "https://www.carethy.es"
-        },
-        "roles": [
-          {
-            "name": "IT Project Manager",
-            "startDate": "2022-01-01",
-            "finishDate": "2022-05-01",
-            "challenges": [
-              {
-                "description": "Management of software development projects in the IT area using agile methodologies such as Scrum and Kanban.\nDirect contact with stakeholders to know their needs and to be able to present them with the best solution aligned with the objectives of their area and the company.\nConstantly working on project, resource and capacity plans."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Bitbucket",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Linux",
-                "type": "technology"
-              },
-              {
-                "name": "MariaDB",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "Ubuntu",
-                "type": "technology"
-              },
-              {
-                "name": "Visual Studio Code",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Buddy.eu",
           "image": {
-            "alt": "Captura de pantalla de 2022-04-12 19-01-37.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/5a4f5d1d-4b19-4db0-aed7-99d41268cffa_captura-de-pantalla-.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/5a4f5d1d-4b19-4db0-aed7-99d41268cffa_captura-de-pantalla-.png",
+            "alt": "Captura de pantalla de 2022-04-12 19-01-37.png"
           },
           "URL": "https://www.buddy.eu"
         },
@@ -190,11 +172,6 @@
             "name": "IT Project Manager",
             "startDate": "2021-02-01",
             "finishDate": "2022-01-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "Bitbucket",
@@ -240,8 +217,8 @@
         "organization": {
           "name": "Innovar Tecnologías",
           "image": {
-            "alt": "logo-innovar-962pxwidev2.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/95fc0cd4-f899-4f68-a0d1-49d91f0ae638_logo-innovar-962pxwi.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/95fc0cd4-f899-4f68-a0d1-49d91f0ae638_logo-innovar-962pxwi.png",
+            "alt": "logo-innovar-962pxwidev2.png"
           },
           "URL": "https://innovartecnologias.com/"
         },
@@ -262,8 +239,8 @@
         "organization": {
           "name": "Adevinta Spain",
           "image": {
-            "alt": "Captura de pantalla de 2022-04-12 19-02-30.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/15d113ab-d9e4-4913-b33f-15faa94235e2_captura-de-pantalla-.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/15d113ab-d9e4-4913-b33f-15faa94235e2_captura-de-pantalla-.png",
+            "alt": "Captura de pantalla de 2022-04-12 19-02-30.png"
           },
           "URL": "https://www.adevinta.es/"
         },
@@ -289,12 +266,7 @@
           {
             "name": "IT Governance Officer",
             "startDate": "2018-11-01",
-            "finishDate": "2019-04-30",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "finishDate": "2019-04-30"
           }
         ]
       },
@@ -307,12 +279,7 @@
           {
             "name": "Engineering Director at Schibsted Spain - Habitaclia",
             "startDate": "2017-01-01",
-            "finishDate": "2018-11-30",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "finishDate": "2018-11-30"
           }
         ]
       },
@@ -320,8 +287,8 @@
         "organization": {
           "name": "Habitaclia",
           "image": {
-            "alt": "Captura de pantalla de 2022-04-12 19-03-31.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/64d52794-aac2-423e-a910-1ea82d4035ba_captura-de-pantalla-.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/64d52794-aac2-423e-a910-1ea82d4035ba_captura-de-pantalla-.png",
+            "alt": "Captura de pantalla de 2022-04-12 19-03-31.png"
           },
           "URL": "https://www.habitaclia.com/"
         },
@@ -428,12 +395,12 @@
       },
       {
         "organization": {
-          "name": "Serhs Tourism",
-          "URL": "https://www.linkedin.com/company/serhs-tourism?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+          "name": "Grup SERHS",
+          "URL": "https://www.linkedin.com/company/grup-serhs?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
         "roles": [
           {
-            "name": "IT Project Manager",
+            "name": "IT Project Manager at Serhs Tourism.",
             "startDate": "2005-10-01",
             "finishDate": "2012-01-31",
             "challenges": [
@@ -446,12 +413,12 @@
       },
       {
         "organization": {
-          "name": "Grup SERHS",
-          "URL": "https://www.linkedin.com/company/grup-serhs?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+          "name": "Serhs Tourism",
+          "URL": "https://www.linkedin.com/company/serhs-tourism?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
         "roles": [
           {
-            "name": "IT Project Manager at Serhs Tourism.",
+            "name": "IT Project Manager",
             "startDate": "2005-10-01",
             "finishDate": "2012-01-31",
             "challenges": [
@@ -588,36 +555,20 @@
     "projects": [
       {
         "details": {
-          "name": "habitaclia.com - Alerts",
-          "description": "",
-          "URL": "http://www.habitaclia.com/hab_usuarios/infoalertas.htm"
+          "name": "CRM .NET"
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2012-02-01"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "habitaclia.com, Catalunya real estate portal",
-          "description": "",
-          "URL": "http://www.habitaclia.com"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2011-03-01"
+            "startDate": "2003-11-01",
+            "finishDate": "2008-05-31"
           }
         ]
       },
       {
         "details": {
           "name": "Booking On-Line of Rhodasol-Turimar and Serhs Tourism",
-          "description": "",
           "URL": "http://booking.rhodasol.es/login.aspx?GOLOGIN=1"
         },
         "type": "sideProject",
@@ -631,15 +582,27 @@
       },
       {
         "details": {
-          "name": "CRM .NET",
-          "description": ""
+          "name": "habitaclia.com, Catalunya real estate portal",
+          "URL": "http://www.habitaclia.com"
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2003-11-01",
-            "finishDate": "2008-05-31"
+            "startDate": "2011-03-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "habitaclia.com - Alerts",
+          "URL": "http://www.habitaclia.com/hab_usuarios/infoalertas.htm"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2012-02-01"
           }
         ]
       }
@@ -648,20 +611,20 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan",
+        "name": "Catalán",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "English",
-        "level": "Professional working proficiency"
-      },
-      {
-        "name": "French",
-        "level": "Professional working proficiency"
-      },
-      {
-        "name": "Spanish",
+        "name": "Español",
         "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Francés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "Inglés",
+        "level": "Professional working proficiency"
       }
     ],
     "hardSkills": [
@@ -673,55 +636,7 @@
       },
       {
         "skill": {
-          "name": "MariaDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Express",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Visual Studio",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ES6",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQLServer",
+          "name": "ASP.net",
           "type": "technology"
         }
       },
@@ -733,31 +648,7 @@
       },
       {
         "skill": {
-          "name": "Oracle",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Visual Basic",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Visual Studio Code",
+          "name": "CSS",
           "type": "technology"
         }
       },
@@ -769,13 +660,13 @@
       },
       {
         "skill": {
-          "name": "ASP.net",
+          "name": "ES6",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "React",
+          "name": "Express",
           "type": "technology"
         }
       },
@@ -787,7 +678,79 @@
       },
       {
         "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MariaDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Basic",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
           "type": "technology"
         }
       }
@@ -795,48 +758,48 @@
     "studies": [
       {
         "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Scrum Master",
-        "startDate": "2023-03-01",
+        "degreeAchieved": true,
+        "name": "070-315 · Developing and Implementing Web Applications with Microsoft Visual C# .NET and Microsoft Visual Studio .NET",
+        "startDate": "2004-03-01",
         "institution": {
-          "name": "Scrum Manager",
-          "description": "",
-          "URL": "https://scrummanager.com/website/c/profile/member.php?id=1439",
-          "image": {
-            "alt": "ScrumManager.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/1da78f6c-25f6-476f-99b8-c046c86e4ac1_scrummanager.png"
-          }
-        }
+          "name": "Microsoft"
+        },
+        "finishDate": "2004-03-01"
       },
       {
         "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Product Owner",
-        "startDate": "2023-03-01",
+        "degreeAchieved": true,
+        "name": "070-316 · Developing and Implementing Windows-based Applications with Microsoft Visual C# .NET and Microsoft Visual Studio .NET",
+        "startDate": "2004-03-01",
         "institution": {
-          "name": "Scrum Manager",
-          "description": "",
-          "URL": "https://scrummanager.com/website/c/profile/member.php?id=1439",
-          "image": {
-            "alt": "ProductOwner.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/d4ed6dac-0ff0-43db-8474-27be216a737c_productowner.png"
-          }
-        }
+          "name": "Microsoft"
+        },
+        "finishDate": "2004-03-01"
       },
       {
         "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "PMI Ready",
-        "startDate": "2022-09-01",
+        "degreeAchieved": true,
+        "name": "070-320 · Developing XML Web Services and Server Components with Microsoft Visual C# .NET and the Microsoft .NET Framework",
+        "startDate": "2004-04-01",
         "institution": {
-          "name": "PUE",
-          "description": "",
-          "URL": "https://www.credly.com/earner/earned/share/892eff15-4dd5-4eea-acc9-60727a013c29",
+          "name": "Microsoft"
+        },
+        "finishDate": "2004-04-01"
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Agile project management with Scrum",
+        "startDate": "2022-07-01",
+        "institution": {
+          "name": "UCF - Unió Consorci Formació",
+          "description": "• Saber los conceptos clave en Scrum como la inspección, adaptación y\ntransparencia.\n• Conocer los eventos o reuniones en Scrum.\n• Saber identificar las responsabilidades de los distintos roles de\nScrum.\n• Comprender el rol de Scrum Master en Scrum y cuáles son sus\nresponsabilidades.\n• Comprender el rol de Product Owner en Scrum y cuáles son sus\nresponsabilidades.\n• Conocer las buenas prácticas en procesos de implantación de Scrum.\n• Saber identificar errores típicos en procesos de implantación de\nScrum.",
           "image": {
-            "alt": "PMI.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/5301b61f-6333-4707-a6d9-1db17fafa1c2_pmi.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/8829e867-4033-43ff-b459-9ee45901f23a_logo_ucf_petit.png",
+            "alt": "logo_ucf_petit.png"
           }
-        }
+        },
+        "finishDate": "2022-10-01"
       },
       {
         "studyType": "certification",
@@ -845,11 +808,10 @@
         "startDate": "2021-11-01",
         "institution": {
           "name": "Comerzzia Academy",
-          "description": "",
           "URL": "https://drive.google.com/file/d/146qzYVzfBE97QZY9qUgnEK833cgorBPF/view?usp=sharing",
           "image": {
-            "alt": "comerzzia_logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/24389b4d-2ca8-442a-b440-9cbb19b212bf_comerzzia_logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/24389b4d-2ca8-442a-b440-9cbb19b212bf_comerzzia_logo.png",
+            "alt": "comerzzia_logo.png"
           }
         }
       },
@@ -860,11 +822,10 @@
         "startDate": "2021-11-01",
         "institution": {
           "name": "Comerzzia Academy",
-          "description": "",
           "URL": "https://drive.google.com/file/d/146qzYVzfBE97QZY9qUgnEK833cgorBPF/view?usp=sharing",
           "image": {
-            "alt": "comerzzia_logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/6cd8bbc6-2037-4c5a-9020-c9bfabfd81f6_comerzzia_logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/6cd8bbc6-2037-4c5a-9020-c9bfabfd81f6_comerzzia_logo.png",
+            "alt": "comerzzia_logo.png"
           }
         }
       },
@@ -875,11 +836,10 @@
         "startDate": "2020-03-01",
         "institution": {
           "name": "Ironhack",
-          "description": "",
           "URL": "https://www.credential.net/7690d54f-0306-4120-a7da-e74354f4a311#gs.x63ozg",
           "image": {
-            "alt": "LogoIronhack.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/7c034653-6768-4831-9d17-5e8c2c82f116_logoironhack.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/7c034653-6768-4831-9d17-5e8c2c82f116_logoironhack.jpg",
+            "alt": "LogoIronhack.jpg"
           }
         },
         "linkedCompetences": [
@@ -934,25 +894,94 @@
         ]
       },
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "MCP - Microsoft Certified Professional",
-        "startDate": "2004-03-01",
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Full Stack Web Development Part Time Course Barcelona March 2020",
+        "startDate": "2020-03-01",
         "institution": {
-          "name": "Microsoft",
-          "description": "MCPID: 3151586",
-          "URL": "http://www.microsoft.com/learning/en-us/certification-overview.aspx",
-          "image": {
-            "alt": "MCP.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/b5245cb6-adbb-47cd-a234-09ab05a91b26_mcp.png"
-          }
+          "name": "Ironhack",
+          "URL": "https://www.credential.net/7690d54f-0306-4120-a7da-e74354f4a311#gs.x63ozg"
         },
+        "finishDate": "2020-09-01",
         "linkedCompetences": [
           {
-            "name": "Microsoft",
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "ECMAScript",
+            "type": "technology"
+          },
+          {
+            "name": "Express",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Heroku",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "Netlify",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "React",
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Grado en Ingeniería Informática",
+        "startDate": "1990-09-01",
+        "institution": {
+          "name": "Universitat Oberta de Catalunya",
+          "URL": "https://www.uoc.edu/portal/es/index.html",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/32164e4f-ec72-41ef-916c-9a2f4399b2c7_logo-uoc-default.png",
+            "alt": "logo-uoc-default.png_1618809817.png"
+          }
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Introduction to project management – PMI Project Management Ready Certification",
+        "startDate": "2022-05-01",
+        "institution": {
+          "name": "PUE",
+          "description": "Módulo 1: Fundamentos de la gestión de proyectos y conceptos básicos\nMódulo 2: Marcos de análisis empresarial\nMódulo 3: Metodologías tradicionales basadas en la planificación\nMódulo 4: Metodologías ágiles\n\nTodos los módulos tienen un esquema del curso desglosado por semanas para facilitar la planificación de las clases. Cada semana los alumnos participan en una serie de actividades de aprendizaje para introducir conceptos y reforzar su aprendizaje. Algunos ejemplos son:\n\nPresentaciones\nEstudios de caso\nProyectos\nJuegos de aprendizaje\nVídeos\nConsultas en la web\nComprobación de conocimientos\n\nEl diseño de la instrucción de este curso ha sido creado para una integración flexible en el aula. Gracias a la versatilidad del contenido de e-Learning, los instructores tienen la libertad de apoyar a los alumnos en entornos presenciales, virtuales e híbridos. Aunque algunas de las tareas pueden ser completadas de forma independiente, el apoyo adicional de un instructor es útil y alentado.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/0d95286c-ed64-4f74-8a3f-23d6369393eb_logo-pue.png",
+            "alt": "logo-PUE.png"
+          }
+        },
+        "finishDate": "2022-06-01"
       },
       {
         "studyType": "certification",
@@ -961,11 +990,10 @@
         "startDate": "2004-03-01",
         "institution": {
           "name": "Microsoft",
-          "description": "",
           "URL": "http://www.microsoft.com/learning/en-us/certification-overview.aspx",
           "image": {
-            "alt": "MCAD.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/ab029cbc-900d-4980-9d96-129211791d56_mcad.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/ab029cbc-900d-4980-9d96-129211791d56_mcad.png",
+            "alt": "MCAD.png"
           }
         },
         "linkedCompetences": [
@@ -988,17 +1016,71 @@
         ]
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": false,
-        "name": "Grado en Ingeniería Informática",
-        "startDate": "1990-09-01",
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "MCAD - Microsoft Certified Application Developer Microsoft .NET",
+        "startDate": "2004-04-01",
         "institution": {
-          "name": "Universitat Oberta de Catalunya",
-          "description": "",
-          "URL": "https://www.uoc.edu/portal/es/index.html",
+          "name": "Microsoft"
+        },
+        "finishDate": "2004-04-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "MCP - Microsoft Certified Professional",
+        "startDate": "2004-03-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "MCPID: 3151586",
+          "URL": "http://www.microsoft.com/learning/en-us/certification-overview.aspx",
           "image": {
-            "alt": "logo-uoc-default.png_1618809817.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/32164e4f-ec72-41ef-916c-9a2f4399b2c7_logo-uoc-default.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/b5245cb6-adbb-47cd-a234-09ab05a91b26_mcp.png",
+            "alt": "MCP.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "MCP- Microsoft Certified Professional",
+        "startDate": "2004-03-01",
+        "institution": {
+          "name": "Microsoft"
+        },
+        "finishDate": "2004-03-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "PMI Ready",
+        "startDate": "2022-09-01",
+        "institution": {
+          "name": "PUE",
+          "URL": "https://www.credly.com/earner/earned/share/892eff15-4dd5-4eea-acc9-60727a013c29",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/5301b61f-6333-4707-a6d9-1db17fafa1c2_pmi.png",
+            "alt": "PMI.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Product Owner",
+        "startDate": "2023-03-01",
+        "institution": {
+          "name": "Scrum Manager",
+          "URL": "https://scrummanager.com/website/c/profile/member.php?id=1439",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/d4ed6dac-0ff0-43db-8474-27be216a737c_productowner.png",
+            "alt": "ProductOwner.png"
           }
         }
       },
@@ -1007,43 +1089,27 @@
         "degreeAchieved": true,
         "name": "Scrum Framework: Scrum Master & Product Owner Certified",
         "startDate": "2023-01-01",
-        "finishDate": "2023-03-01",
         "institution": {
           "name": "PUE",
           "description": "Módulo 1: Medotodología agile e introducción al scrum\n1. Agile: la cultura ágil \n2. The Scrum Framework\n3. Roles en Scrum\n4. Acontecimientoss en Scrum\nMódulo 2: Gestión de proyectos con Scrum\n5. Artefactos en Scrum\n6. Estimación ágil\n7. El rol de Scrum Máster\n8. El rol de Product Owner\n9. Definición de la visión del producto\n10. Gestión del Product Backlog\n11. Planificación de entregas",
           "image": {
-            "alt": "logo-PUE.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/c1a6ed7c-61c8-457b-8834-3288be1bf524_logo-pue.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/c1a6ed7c-61c8-457b-8834-3288be1bf524_logo-pue.png",
+            "alt": "logo-PUE.png"
           }
-        }
+        },
+        "finishDate": "2023-03-01"
       },
       {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Agile project management with Scrum",
-        "startDate": "2022-07-01",
-        "finishDate": "2022-10-01",
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Scrum Master",
+        "startDate": "2023-03-01",
         "institution": {
-          "name": "UCF - Unió Consorci Formació",
-          "description": "• Saber los conceptos clave en Scrum como la inspección, adaptación y\ntransparencia.\n• Conocer los eventos o reuniones en Scrum.\n• Saber identificar las responsabilidades de los distintos roles de\nScrum.\n• Comprender el rol de Scrum Master en Scrum y cuáles son sus\nresponsabilidades.\n• Comprender el rol de Product Owner en Scrum y cuáles son sus\nresponsabilidades.\n• Conocer las buenas prácticas en procesos de implantación de Scrum.\n• Saber identificar errores típicos en procesos de implantación de\nScrum.",
+          "name": "Scrum Manager",
+          "URL": "https://scrummanager.com/website/c/profile/member.php?id=1439",
           "image": {
-            "alt": "logo_ucf_petit.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/8829e867-4033-43ff-b459-9ee45901f23a_logo_ucf_petit.png"
-          }
-        }
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Introduction to project management – PMI Project Management Ready Certification",
-        "startDate": "2022-05-01",
-        "finishDate": "2022-06-01",
-        "institution": {
-          "name": "PUE",
-          "description": "Módulo 1: Fundamentos de la gestión de proyectos y conceptos básicos\nMódulo 2: Marcos de análisis empresarial\nMódulo 3: Metodologías tradicionales basadas en la planificación\nMódulo 4: Metodologías ágiles\n\nTodos los módulos tienen un esquema del curso desglosado por semanas para facilitar la planificación de las clases. Cada semana los alumnos participan en una serie de actividades de aprendizaje para introducir conceptos y reforzar su aprendizaje. Algunos ejemplos son:\n\nPresentaciones\nEstudios de caso\nProyectos\nJuegos de aprendizaje\nVídeos\nConsultas en la web\nComprobación de conocimientos\n\nEl diseño de la instrucción de este curso ha sido creado para una integración flexible en el aula. Gracias a la versatilidad del contenido de e-Learning, los instructores tienen la libertad de apoyar a los alumnos en entornos presenciales, virtuales e híbridos. Aunque algunas de las tareas pueden ser completadas de forma independiente, el apoyo adicional de un instructor es útil y alentado.",
-          "image": {
-            "alt": "logo-PUE.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/0d95286c-ed64-4f74-8a3f-23d6369393eb_logo-pue.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/1da78f6c-25f6-476f-99b8-c046c86e4ac1_scrummanager.png",
+            "alt": "ScrumManager.png"
           }
         }
       },
@@ -1052,127 +1118,29 @@
         "degreeAchieved": true,
         "name": "Web Development Part Time Course Barcelona March 2020",
         "startDate": "2020-10-01",
-        "finishDate": "2020-10-01",
         "institution": {
-          "name": "Ironhack",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Full Stack Web Development Part Time Course Barcelona March 2020",
-        "startDate": "2020-03-01",
-        "finishDate": "2020-09-01",
-        "institution": {
-          "name": "Ironhack",
-          "description": "",
-          "URL": "https://www.credential.net/7690d54f-0306-4120-a7da-e74354f4a311#gs.x63ozg"
+          "name": "Ironhack"
         },
-        "linkedCompetences": [
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "ECMAScript",
-            "type": "technology"
-          },
-          {
-            "name": "Express",
-            "type": "technology"
-          },
-          {
-            "name": "Git",
-            "type": "technology"
-          },
-          {
-            "name": "Github",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "Heroku",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "MongoDB",
-            "type": "technology"
-          },
-          {
-            "name": "Netlify",
-            "type": "technology"
-          },
-          {
-            "name": "NodeJS",
-            "type": "technology"
-          },
-          {
-            "name": "React",
-            "type": "technology"
-          }
-        ]
-      },
+        "finishDate": "2020-10-01"
+      }
+    ],
+    "softSkills": [
       {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "070-320 · Developing XML Web Services and Server Components with Microsoft Visual C# .NET and the Microsoft .NET Framework",
-        "startDate": "2004-04-01",
-        "finishDate": "2004-04-01",
-        "institution": {
-          "name": "Microsoft",
-          "description": ""
+        "skill": {
+          "name": "Gestión de equipo",
+          "type": "practice"
         }
       },
       {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "MCAD - Microsoft Certified Application Developer Microsoft .NET",
-        "startDate": "2004-04-01",
-        "finishDate": "2004-04-01",
-        "institution": {
-          "name": "Microsoft",
-          "description": ""
+        "skill": {
+          "name": "Proactividad",
+          "type": "practice"
         }
       },
       {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "MCP- Microsoft Certified Professional",
-        "startDate": "2004-03-01",
-        "finishDate": "2004-03-01",
-        "institution": {
-          "name": "Microsoft",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "070-316 · Developing and Implementing Windows-based Applications with Microsoft Visual C# .NET and Microsoft Visual Studio .NET",
-        "startDate": "2004-03-01",
-        "finishDate": "2004-03-01",
-        "institution": {
-          "name": "Microsoft",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "070-315 · Developing and Implementing Web Applications with Microsoft Visual C# .NET and Microsoft Visual Studio .NET",
-        "startDate": "2004-03-01",
-        "finishDate": "2004-03-01",
-        "institution": {
-          "name": "Microsoft",
-          "description": ""
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
         }
       }
     ]
@@ -1181,12 +1149,29 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/mdemena/"
+          "URL": "https://www.linkedin.com/in/mdemena/",
+          "type": "linkedin"
         },
         {
-          "type": "other",
-          "URL": "https://stackoverflow.com/users/1027256/mdemena"
+          "URL": "https://stackoverflow.com/users/1027256/mdemena",
+          "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/mdemena",
+          "type": "other"
+        },
+        {
+          "URL": "https://twitter.com/mdemena",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "mdemena@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "627462305",
+          "countryCode": "+34"
         }
       ]
     },
@@ -1226,5 +1211,23 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Poder gestionar el área de IT o equipos de IT para ayudar a aportar valor a la compañía de la manera más ágil y segura posible.\nSi pudiera crear código,  ya sería la \"repera\", pero entiendo que el Management conlleva trabajo e implicación con el equipo.\nMe gusta poder ayudar a crecer a la gente, porque eso repercute en el crecimiento de la compañía.\nMe encanta poder aportar mis conocimientos y experiencia en la adopción de herramientas que mejoren los procesos de la compañía.",
+    "goodPractices": "Agile\nScrum\nKanban\nLean\n",
+    "projects": [
+      {
+        "name": "Booking On-Line of Rhodasol-Turimar and Serhs Tourism"
+      },
+      {
+        "name": "CRM .NET"
+      },
+      {
+        "name": "habitaclia.com - Alerts"
+      },
+      {
+        "name": "habitaclia.com, Catalunya real estate portal"
+      }
+    ]
   }
 }
