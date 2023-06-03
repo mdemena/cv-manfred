@@ -32,6 +32,60 @@
     "jobs": [
       {
         "organization": {
+          "name": "Brownie",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/03/254f32bb-e50c-4363-960a-11be609fa6fc_brownie_negro.svg",
+            "alt": "brownie_negro.svg"
+          },
+          "URL": "https://www.browniespain.com/"
+        },
+        "roles": [
+          {
+            "name": "Head of Development",
+            "startDate": "2023-06-01",
+            "competences": [
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "MariaDB",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "PHPStorm",
+                "type": "technology"
+              },
+              {
+                "name": "Prestashop",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Carethy",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/c7662c01-331a-42ba-b0ed-de9057156a1e_captura-de-pantalla-.png",
