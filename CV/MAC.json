@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -25,6 +25,24 @@
       {
         "topic": "Sports I play",
         "fact": "Paddel\nMountain Bike\nHiking"
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/mdemena/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/mdemena"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/mdemena"
+      },
+      {
+        "type": "stackoverflow",
+        "URL": "https://stackoverflow.com/users/1027256/mdemena"
       }
     ]
   },
@@ -177,10 +195,6 @@
                 "type": "technology"
               },
               {
-                "name": "ESXi",
-                "type": "technology"
-              },
-              {
                 "name": "Git",
                 "type": "technology"
               },
@@ -202,6 +216,10 @@
               },
               {
                 "name": "Ubuntu",
+                "type": "technology"
+              },
+              {
+                "name": "VMware ESXi",
                 "type": "technology"
               },
               {
@@ -609,14 +627,27 @@
     "projects": [
       {
         "details": {
-          "name": "CRM .NET"
+          "name": "habitaclia.com - Alerts",
+          "URL": "http://www.habitaclia.com/hab_usuarios/infoalertas.htm"
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2003-11-01",
-            "finishDate": "2008-05-31"
+            "startDate": "2012-02-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "habitaclia.com, Catalunya real estate portal",
+          "URL": "http://www.habitaclia.com"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2011-03-01"
           }
         ]
       },
@@ -636,27 +667,14 @@
       },
       {
         "details": {
-          "name": "habitaclia.com, Catalunya real estate portal",
-          "URL": "http://www.habitaclia.com"
+          "name": "CRM .NET"
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2011-03-01"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "habitaclia.com - Alerts",
-          "URL": "http://www.habitaclia.com/hab_usuarios/infoalertas.htm"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2012-02-01"
+            "startDate": "2003-11-01",
+            "finishDate": "2008-05-31"
           }
         ]
       }
@@ -665,19 +683,23 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalán",
+        "name": "CA",
+        "fullName": "Catalán / Valenciano",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Español",
-        "level": "Native or bilingual proficiency"
-      },
-      {
-        "name": "Francés",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
-        "name": "Inglés",
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "FR",
+        "fullName": "Francés",
         "level": "Professional working proficiency"
       }
     ],
@@ -709,12 +731,6 @@
       {
         "skill": {
           "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ES6",
           "type": "technology"
         }
       },
@@ -902,10 +918,6 @@
             "type": "technology"
           },
           {
-            "name": "ECMAScript",
-            "type": "technology"
-          },
-          {
             "name": "Express",
             "type": "technology"
           },
@@ -960,10 +972,6 @@
         "linkedCompetences": [
           {
             "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "ECMAScript",
             "type": "technology"
           },
           {
@@ -1212,29 +1220,19 @@
         },
         {
           "URL": "https://github.com/mdemena",
-          "type": "other"
+          "type": "github"
         },
         {
           "URL": "https://twitter.com/mdemena",
-          "type": "other"
+          "type": "twitter"
         }
       ],
       "contactMails": [
         "mdemena@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "627462305",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
       "preferredCompetences": [
-        {
-          "name": "ECMAScript",
-          "type": "technology"
-        },
         {
           "name": "JavaScript",
           "type": "technology"
